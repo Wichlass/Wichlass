@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me & My Journey
 
-I am an 18-year-old developer driven by the question **"How does it work under the hood?"**.
+I am an 18-year-old developer driven by the questio.
 
 My journey started with modding **MTA: San Andreas** servers, where I first struggled with Lua scripts. That struggle turned into passion. I moved through the web stack (HTML/CSS/JS), explored Python, and eventually faced the "Final Boss": **C++**.
 
