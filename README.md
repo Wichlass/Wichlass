@@ -50,14 +50,15 @@ Today, I don't just write code; I design **scalable systems and engine architect
 ### 🚀 Key Projects
 
 #### 1. Quark Engine ⚙️
-* A custom **3D Game Engine** written in C++ & DirectX 11.
+* A custom **3D Game Engine** written in C++ with a modular, backend-agnostic rendering architecture.
+* Features a decoupled **Render System** and **Graphics Backend** (DirectX 11 and future API support).
 * Focused on modern real-time rendering techniques:
   - Cascaded Shadow Maps (CSM)
   - Sky & Atmosphere System
   - Physically Based Rendering (PBR)
   - Frustum Culling & GPU Instancing
   - Custom Rendering Pipeline
-* Designed for high performance and scalability.
+* Designed for high performance, portability, and scalability.
 * *Status: Active Development*
 
 #### 2. SION (Steam Integrated Overbyte Networking) 🌐
