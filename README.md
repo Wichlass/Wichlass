@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Wichlass! 👋</h1>
+<h1 align="center">Hi, I'm Emirhan!👋</h1>
 
 <h3 align="center">Systems Designer | Graphics Programmer | Engine Architect</h3>
 
