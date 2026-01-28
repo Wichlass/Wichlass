@@ -11,12 +11,12 @@ I am an 18-year-old developer driven by the question **"How does it work under t
 
 My journey started with modding **MTA: San Andreas** servers, where I first struggled with Lua scripts. That struggle turned into passion. I moved through the web stack (HTML/CSS/JS), explored Python, and eventually faced the **C++**.
 
-I initially quit C++ because it felt impossible. But I couldn't accept defeat. I returned with discipline, mastered the concepts of OOP and Memory Management, and now **C++ is my strongest weapon**.
+I initially quit C++ because it felt impossible. But I couldn't accept defeat. I returned with discipline, improved myself in OOP and Memory Management, and now C++ is my strongest weapon.
 
 Today, I don't just write code; I design **Architectures**.
 * I focus on **Logic over Syntax**. I believe if you know the architecture, the language is just a tool.
 * I am currently diving deep into **3D Graphics Programming** (DirectX 11, HLSL) and **Game Engine Development**.
-* Founder of **Overbyte** (My dream game studio).
+* Founder of **Overbyte**.
 
 ---
 
