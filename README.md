@@ -16,7 +16,7 @@ Today, I don't just write code; I design **scalable systems and engine architect
 
 * I focus on **Logic over Syntax**. If you understand the architecture, the language is just a tool.
 * I am deeply focused on **3D Graphics Programming** (DirectX 11, HLSL) and **Game Engine Development**.
-* Founder & Lead Engineer of **Overbyte**.
+* Founder of **Overbyte**.
 
 ---
 
