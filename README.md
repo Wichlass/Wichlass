@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Wichlass! 👋</h1>
 
-<h3 align="center">Systems Engineer | Graphics Programmer | Engine Architect</h3>
+<h3 align="center">Systems Designer | Graphics Programmer | Engine Architect</h3>
 
 
 ---
