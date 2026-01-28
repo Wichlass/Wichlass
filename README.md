@@ -59,11 +59,6 @@ Today, I don't just write code; I design **Architectures**.
 * Built on top of **Steamworks P2P** relay infrastructure.
 * Features a custom **Binary Packet System** (High performance serialization) to sync Client/Server states with minimal latency.
 
-#### 3. OverDoSe (Stress Testing Tool) ⚡
-* A multi-threaded Windows application for **Network Stress Testing**.
-* Uses asynchronous tasks to test server resilience and HTTP protocol limits (DOS simulation).
-* *Developed for educational and security research purposes.*
-
 ---
 
 ### 📊 GitHub Stats
