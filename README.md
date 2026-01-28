@@ -1,46 +1,60 @@
-<h1 align="center"> Hi, I'm Can! 👋 </h1>
+<h1 align="center"> Hi, I'm Wichlass! 👋 </h1>
+
+<h3 align="center">Graphics Programmer & Engine Architect</h3>
+
 <p align="center">
-    <i>A self-taught fullstack developer who makes modern web applications etc. I enjoy turning ideas into interactive,
-        user-friendly, responsive experiences and continously improving my skills.</i>
+    <i>"Beyond the Syntax. Into the Memory."</i>
+</p>
+
+<p align="center">
+    I don't just write code, I design architecture. My journey extends from the <b>MTA:SA</b> modding scene to the depths of <b>DirectX 11</b>. Currently building <b>Quark Engine</b> and developing technology for <b>Overbyte</b>.
 </p>
 
 ---
 
-### ⚙️ Tech & Languages
+### ⚙️ Tech & Proficiency
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![DirectX](https://img.shields.io/badge/DirectX%2011-5C2D91?logo=windows&logoColor=white)](#)
+[![HLSL](https://img.shields.io/badge/HLSL-Shader-success)](#)
+
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](#)
+
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Network](https://img.shields.io/badge/Network-UDP%2FTCP-red)](#)
+
+---
+
+### 🚀 Key Projects
+
+* **Quark Engine:** Custom 3D game engine utilizing WLSM (World-Locked Shadow Mapping) technology.
+* **SION Networking:** Event-driven networking library for Unity using Steam Relay.
+* **OverDoSe:** Multi-threaded stress testing tool.
 
 ---
 
 ### 📫 Connect with me
+
 <div align="left">
-    <a href="https://github.com/of8g" target="_blank">
-        <img src=https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white alt=github
-            style="margin-bottom: 5px;" />
+    <a href="mailto:contact@wichlass.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
     </a>
-    <a href="mailto:info@mergenc.com" target="_blank">
-        <img src=https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white alt=mail
-            style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/mergendll" target="_blank">
-        <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white alt=instagram
-            style="margin-bottom: 5px;" />
+    <a href="https://wichlass.com" target="_blank">
+        <img src="https://img.shields.io/badge/Website-Wichlass.dev-6366f1" alt="website" style="margin-bottom: 5px;" />
     </a>
 </div>
 
 ---
 
 ### 📊 Github Stats
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=of8g&show_icons=true&theme=dark&locale=en&layout=compact"
-        alt="of8g" /></p>
 
-<p>&nbsp;<img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=of8g&show_icons=true&theme=dark&locale=en"
-        alt="of8g" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wichlass&show_icons=true&theme=dark&locale=en&layout=compact&hide=html,css" alt="wichlass" />
+</p>
+
+<p>
+    &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wichlass&show_icons=true&theme=dark&locale=en&hide_title=true" alt="wichlass" />
+</p>
