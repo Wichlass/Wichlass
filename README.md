@@ -73,7 +73,7 @@ Today, I don't just write code; I design **scalable systems and engine architect
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wichlass&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wichlass&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wichlass&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
