@@ -47,7 +47,7 @@ Today, I don't just write code; I design **scalable systems and engine architect
 
 ---
 
-### 🚀 Key Projects (Overbyte)
+### 🚀 Key Projects
 
 #### 1. Quark Engine ⚙️
 * A custom **3D Game Engine** written in C++ & DirectX 11.
