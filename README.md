@@ -79,10 +79,5 @@ Today, I don't just write code; I design **scalable systems and engine architect
 ---
 
 <p align="center">
-  <a href="wichlass0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://wichlass.com">
-    <img src="https://img.shields.io/badge/Website-Wichlass.dev-purple?style=flat-square" />
-  </a>
+  wichlass@gmail.com
 </p>
