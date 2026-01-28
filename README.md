@@ -2,21 +2,21 @@
 
 <h3 align="center">Systems Designer | Graphics Programmer | Engine Architect</h3>
 
-
 ---
 
 ### 👨‍💻 About Me & My Journey
 
-I am an 18-year-old developer driven by the question **"How does it work under the hood?"**.
+I am a developer driven by the question **"How does it work under the hood?"**.
 
-My journey started with modding **MTA: San Andreas** servers, where I first struggled with Lua scripts. That struggle turned into passion. I moved through the web stack (HTML/CSS/JS), explored Python, and eventually faced the **C++**.
+My journey started with modding **MTA: San Andreas** servers, where I first struggled with Lua scripts. That struggle turned into passion. I moved through the web stack (HTML/CSS/JS), explored Python, and eventually faced **C++**.
 
-I initially quit C++ because it felt impossible. But I couldn't accept defeat. I returned with discipline, improved myself in OOP and Memory Management, and now C++ is my strongest weapon.
+I initially quit C++ because it felt impossible. But I couldn't accept defeat. I returned with discipline, improved myself in OOP and Memory Management, and now **C++ is my strongest weapon**.
 
-Today, I don't just write code; I design **Architectures**.
-* I focus on **Logic over Syntax**. I believe if you know the architecture, the language is just a tool.
-* I am currently diving deep into **3D Graphics Programming** (DirectX 11, HLSL) and **Game Engine Development**.
-* Founder of **Overbyte**.
+Today, I don't just write code; I design **scalable systems and engine architectures**.
+
+* I focus on **Logic over Syntax**. If you understand the architecture, the language is just a tool.
+* I am deeply focused on **3D Graphics Programming** (DirectX 11, HLSL) and **Game Engine Development**.
+* Founder & Lead Engineer of **Overbyte**.
 
 ---
 
@@ -51,13 +51,19 @@ Today, I don't just write code; I design **Architectures**.
 
 #### 1. Quark Engine ⚙️
 * A custom **3D Game Engine** written in C++ & DirectX 11.
-* My playground for learning Graphics Pipelines, WLSM (World-Locked Shadow Mapping), and low-level resource management.
+* Focused on modern real-time rendering techniques:
+  - Cascaded Shadow Maps (CSM)
+  - Sky & Atmosphere System
+  - Physically Based Rendering (PBR)
+  - Frustum Culling & GPU Instancing
+  - Custom Rendering Pipeline
+* Designed for high performance and scalability.
 * *Status: Active Development*
 
 #### 2. SION (Steam Integrated Overbyte Networking) 🌐
 * **Event-Driven** networking library for Unity.
 * Built on top of **Steamworks P2P** relay infrastructure.
-* Features a custom **Binary Packet System** (High performance serialization) to sync Client/Server states with minimal latency.
+* Features a custom **Binary Packet System** for high-performance serialization and low-latency synchronization.
 
 ---
 
