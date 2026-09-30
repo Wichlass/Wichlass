@@ -35,7 +35,6 @@ Today, I don't just write code; I design **scalable systems and engine architect
   <img src="https://img.shields.io/badge/DirectX%2011-5C2D91?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/HLSL-Shader-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/3D%20Math-Linear%20Algebra-orange?style=for-the-badge" />
 </p>
 
 **Web & Backend:**
